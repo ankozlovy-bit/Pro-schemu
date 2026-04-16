@@ -1,0 +1,12 @@
+/* Absolute minimal CSS for testing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #F5F3EE;
+  color: #2D2D2D;
+}

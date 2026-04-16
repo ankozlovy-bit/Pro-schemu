@@ -1,0 +1,14 @@
+Расход длины нитей (с учетом прибавки 40%)
+
+Номер цвета (DMC)	Наименование цвета	Общая длина (м)
+310	Anthracite grey	2.0
+3799	Charcoal grey	3.0
+3103799	-	2.5
+666	Christmas red	1.5
+703	Chartreuse	2.0
+666+703	-	0.3
+310	Anthracite grey	1.0
+3+3799	-	0.8
+B5200	Bright white	5.0
+310	Anthracite grey	2.0
+B5200+310	-	2.1

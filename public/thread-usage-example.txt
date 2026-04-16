@@ -1,0 +1,20 @@
+Расход длины нитей (с учетом прибавки 40%)
+
+Номер цвета (DMC)	Наименование цвета	Общая длина (м)
+14	Pale Apple Green	0.3
+28	Medium Light Eggplant	0.2
+29	Eggplant	0.3
+310	Black	2.5
+666	Bright Red	1.8
+742	Light tangerine	0.2
+745	Banana yellow	0.3
+904	Avocado green	0.7
+989	Fennel green	0.4
+3078	Pale yellow	0.2
+3747	Pale candy blue	0.3
+3815	Eucalyptus Green	0.4
+3816	Snake green	4.1
+3817	Polar tree green	2.4
+3823	Ivory	0.5
+5200	Bright white	10.5
+B5200	Bright white	1.2

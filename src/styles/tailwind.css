@@ -1,0 +1,19 @@
+/* This file is deprecated - imports moved to index.css */
+/* Custom font utility classes for StitchPDF 2026 */
+@layer utilities {
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+  
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+  
+  .font-accent {
+    font-family: var(--font-accent);
+  }
+  
+  .font-mono {
+    font-family: var(--font-mono);
+  }
+}

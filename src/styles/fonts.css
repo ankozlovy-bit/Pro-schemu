@@ -1,0 +1,18 @@
+/* System font stacks for cross-platform compatibility */
+
+:root {
+  /* Display font - Montserrat for stylish headings */
+  --font-display: 'Montserrat', Arial, Helvetica, sans-serif;
+  
+  /* Serif font stack - Georgia for elegant headings */
+  --font-serif: Georgia, 'Times New Roman', Times, serif;
+  
+  /* Sans-serif font stack - Arial for UI and body text */
+  --font-sans: Arial, Helvetica, 'Helvetica Neue', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  
+  /* Monospace font stack - Consolas for technical data */
+  --font-mono: Consolas, Monaco, 'Courier New', Courier, monospace;
+  
+  /* Accent font (same as sans for consistency) */
+  --font-accent: Arial, Helvetica, sans-serif;
+}

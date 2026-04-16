@@ -1,0 +1,8 @@
+/* Import Tailwind CSS - required for v4 */
+@import 'tailwindcss';
+
+/* Import fonts */
+@import './fonts.css';
+
+/* Theme must come AFTER Tailwind */
+@import './theme.css';
